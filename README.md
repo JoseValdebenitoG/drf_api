@@ -1,7 +1,7 @@
 # Primera API CRUD con Django Rest Framework
 ___
 
-API creada para aprender el uso del Framework _'Django Rest Framework'_
+API creada para aprender el uso del Framework **_'Django Rest Framework'_**
 basado en el tutorial de Fazt en youtube.
 Pequeña API de un CRUD creada para registrar proyectos, por ejemplo
 
